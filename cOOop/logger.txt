@@ -1,0 +1,474 @@
+ديس 20, 2019 8:30:41 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:30:42 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:30:44 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:30:44 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 1
+ديس 20, 2019 8:30:44 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:30:47 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:30:49 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:30:49 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 2
+ديس 20, 2019 8:30:52 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:30:57 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:30:57 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:30:57 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 3
+ديس 20, 2019 8:31:00 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:31:00 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:31:04 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:31:04 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 4
+ديس 20, 2019 8:31:07 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:31:09 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:31:12 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:31:15 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:31:16 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:31:17 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:31:17 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:31:18 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:31:20 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:31:20 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:31:24 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:31:26 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:31:30 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:31:30 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 5
+ديس 20, 2019 8:31:36 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:31:39 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:31:39 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 6
+ديس 20, 2019 8:31:45 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:31:45 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 7
+ديس 20, 2019 8:31:49 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:31:49 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 8
+ديس 20, 2019 8:31:50 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:31:53 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:31:53 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 9
+ديس 20, 2019 8:31:54 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:31:58 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:32:03 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:32:03 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 10
+ديس 20, 2019 8:32:11 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:32:13 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:32:13 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 11
+ديس 20, 2019 8:32:13 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:32:14 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:32:17 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:32:18 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:32:18 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 12
+ديس 20, 2019 8:32:20 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:32:21 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:32:23 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:32:24 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:32:24 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:32:26 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:32:26 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 13
+ديس 20, 2019 8:32:32 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:32:36 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:32:36 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 14
+ديس 20, 2019 8:32:39 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:32:40 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:32:41 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:32:43 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:32:45 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:32:45 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 15
+ديس 20, 2019 8:32:46 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:32:48 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:32:50 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:32:50 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 16
+ديس 20, 2019 8:32:50 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:32:56 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:32:57 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:32:57 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 17
+ديس 20, 2019 8:33:00 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:33:01 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:33:01 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 18
+ديس 20, 2019 8:33:10 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:33:10 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 19
+ديس 20, 2019 8:33:13 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:33:13 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 19
+ديس 20, 2019 8:33:14 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:33:14 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 19
+ديس 20, 2019 8:33:21 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:33:21 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 15
+ديس 20, 2019 8:33:23 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:33:23 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 19
+ديس 20, 2019 8:33:25 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:33:25 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 15
+ديس 20, 2019 8:33:26 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:33:27 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:33:27 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 19
+ديس 20, 2019 8:33:28 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:33:28 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 15
+ديس 20, 2019 8:33:29 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:33:33 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:33:33 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 15
+ديس 20, 2019 8:33:34 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:33:34 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:33:39 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:33:41 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:33:42 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:33:42 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 15
+ديس 20, 2019 8:33:43 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:33:43 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 15
+ديس 20, 2019 8:33:44 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:33:47 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:33:51 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:33:53 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:33:53 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:33:54 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:33:56 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:33:57 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:33:58 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:34:01 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:34:08 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:34:08 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:34:09 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:34:10 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:34:10 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 15
+ديس 20, 2019 8:34:14 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:34:16 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:34:21 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:34:23 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:34:24 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:34:24 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 20
+ديس 20, 2019 8:34:25 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:34:28 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:34:31 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:34:31 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 15
+ديس 20, 2019 8:34:33 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:34:33 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:34:33 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 15
+ديس 20, 2019 8:34:34 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 15
+ديس 20, 2019 8:34:34 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 15
+ديس 20, 2019 8:34:35 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 15
+ديس 20, 2019 8:34:36 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 15
+ديس 20, 2019 8:34:36 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 15
+ديس 20, 2019 8:34:37 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 15
+ديس 20, 2019 8:34:38 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 15
+ديس 20, 2019 8:34:38 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 15
+ديس 20, 2019 8:34:39 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 15
+ديس 20, 2019 8:34:40 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 15
+ديس 20, 2019 8:34:40 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 15
+ديس 20, 2019 8:34:41 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 15
+ديس 20, 2019 8:34:42 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 15
+ديس 20, 2019 8:34:43 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 15
+ديس 20, 2019 8:34:44 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:34:54 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:34:54 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 15
+ديس 20, 2019 8:35:00 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 8:35:03 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:02:06 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:02:08 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:02:12 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:02:12 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:02:20 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:02:20 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:02:20 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 1
+ديس 20, 2019 10:02:23 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:02:23 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:02:26 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:02:27 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:02:27 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 2
+ديس 20, 2019 10:02:29 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:02:31 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:02:32 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:02:33 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:02:35 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:02:36 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:02:36 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 3
+ديس 20, 2019 10:02:38 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:02:41 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:02:43 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:02:43 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 3
+ديس 20, 2019 10:02:45 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:02:45 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 4
+ديس 20, 2019 10:02:47 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:02:52 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:02:58 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:02:58 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:03:31 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:03:31 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:03:32 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:03:33 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:03:33 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:03:33 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 1
+ديس 20, 2019 10:03:35 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:03:37 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:03:37 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:03:37 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 2
+ديس 20, 2019 10:03:49 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:03:59 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:04:00 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:04:17 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:04:18 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:04:20 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:04:21 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:04:22 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:04:27 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:04:27 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:04:27 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:04:27 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 3
+ديس 20, 2019 10:04:28 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:04:29 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:04:30 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:04:32 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:04:34 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:04:36 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:04:37 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:04:37 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:04:38 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:04:38 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: Game Over!
+ديس 20, 2019 10:13:58 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:13:58 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:14:01 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:14:01 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:14:09 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:14:13 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:16:40 م eg.edu.alexu.csd.oop.game67.logger update
+WARNING: The bomb is almost here!!
+ديس 20, 2019 10:16:41 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:16:42 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: Game Over!
+ديس 20, 2019 10:45:45 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:45:48 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:45:48 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:45:48 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 1
+ديس 20, 2019 10:45:52 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:45:52 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:45:53 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:45:56 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:45:56 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: The score increased! | Score = 2
+ديس 20, 2019 10:45:58 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:46:02 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:46:08 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
+ديس 20, 2019 10:46:19 م eg.edu.alexu.csd.oop.game67.logger update
+INFO: An item is catched!
